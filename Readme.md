@@ -32,6 +32,8 @@ Microinteracoes e animacoes: foram implementados efeitos de hover, transicoes su
 
 Acessibilidade: a pagina inclui link para pular ao conteudo principal, foco visivel, rotulos ARIA em regioes importantes, descricoes em botoes e formularios, uso de `aria-hidden` em elementos decorativos e estrutura de titulos por secao. Esses cuidados melhoram a navegacao por teclado e por leitores de tela.
 
+Curadoria de codigo com IA: ferramentas de inteligencia artificial generativa foram utilizadas como apoio para planejar, revisar e refinar a estrutura da landing page, especialmente na organizacao semantica, na documentacao dos itens implementados e em pequenos ajustes de interface. O codigo final foi curado manualmente para manter coerencia visual, responsividade, acessibilidade e aderencia aos criterios do projeto.
+
 ## Como executar
 
 Abra o arquivo `index.html` diretamente no navegador. Como o projeto usa apenas HTML, CSS e JavaScript nativo, nao ha necessidade de instalar dependencias ou iniciar servidor local.
